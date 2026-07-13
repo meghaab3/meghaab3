@@ -1,47 +1,59 @@
 # Hi 👋 I'm Megha Sahu
 
-🎓 BCA Student at SRM University
+🎓 BCA Student @ SRM University
 
 🛡️ Aspiring SOC Analyst
 
-## About Me
+---
 
-- 🔐 Passionate about Cybersecurity
-- 🐍 Python Developer
-- 🐧 Linux & Kali Linux
-- 📊 SIEM & Log Analysis
-- 🚨 Threat Detection
-- 🌱 Currently learning Web Application Security
+## 👩‍💻 About Me
 
-## Tech Stack
+- Passionate about Cybersecurity
+- Python Developer
+- Linux & Kali Linux
+- SIEM & Log Analysis
+- Threat Detection
+- Currently learning Web Application Security
 
+## 🎯 Current Goal
+
+Building practical Blue Team projects and strengthening my skills in security monitoring, incident response, and threat analysis.
+
+## 🛠 Tech Stack
+
+**Programming**
 - Python
 - Java
 - SQL
+
+**Cybersecurity**
 - Linux
 - Kali Linux
-- Flask
-- PostgreSQL
+- SIEM
+- Log Analysis
+- Threat Detection
+
+**Tools**
 - Wireshark
 - Nmap
-- ELK Stack
+- Flask
+- PostgreSQL
 - Power BI
 
-## Current Projects
+## 📌 Featured Projects
 
-- 🔐 Threat Intelligence Dashboard
-- 🚨 Log-Based IDS
-- 🛡 SSH Honeypot
+- Threat Intelligence Dashboard
+- SSH Honeypot
+- Log-Based IDS
 
-## Certifications
+## 📜 Certifications
 
 - Cisco Introduction to Cybersecurity
 - TryHackMe SOC Level 1
 - Cybersecurity Fundamentals
 
-## Connect with Me
+## 📫 Connect with Me
 
 📧 sahumeghaa@gmail.com
 
-💼 LinkedIn:
-https://linkedin.com/in/megha-s-258347243
+💼 LinkedIn
