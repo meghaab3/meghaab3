@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Megha Sahu
 
-<!--
-**meghaab3/meghaab3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at SRM University
 
-Here are some ideas to get you started:
+🛡️ Aspiring SOC Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔐 Passionate about Cybersecurity
+- 🐍 Python Developer
+- 🐧 Linux & Kali Linux
+- 📊 SIEM & Log Analysis
+- 🚨 Threat Detection
+- 🌱 Currently learning Web Application Security
+
+## Tech Stack
+
+- Python
+- Java
+- SQL
+- Linux
+- Kali Linux
+- Flask
+- PostgreSQL
+- Wireshark
+- Nmap
+- ELK Stack
+- Power BI
+
+## Current Projects
+
+- 🔐 Threat Intelligence Dashboard
+- 🚨 Log-Based IDS
+- 🛡 SSH Honeypot
+
+## Certifications
+
+- Cisco Introduction to Cybersecurity
+- TryHackMe SOC Level 1
+- Cybersecurity Fundamentals
+
+## Connect with Me
+
+📧 sahumeghaa@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/megha-s-258347243
