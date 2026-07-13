@@ -1,50 +1,74 @@
 # Hi 👋 I'm Megha Sahu
 
-🎓 BCA Student @ SRM University
+### 🛡️ Aspiring SOC Analyst | Cybersecurity Enthusiast
 
-🛡️ Aspiring SOC Analyst
+🎓 BCA Student at SRM University, Ramapuram  
+📍 Chennai, India
 
 ---
 
 ## 👩‍💻 About Me
 
-- Passionate about Cybersecurity
-- Python Developer
-- Linux & Kali Linux
-- SIEM & Log Analysis
-- Threat Detection
-- Currently learning Web Application Security
+I'm a BCA student passionate about cybersecurity and Blue Team operations. I enjoy building practical security tools using Python and Linux while learning how to detect, analyze, and respond to cyber threats.
 
-## 🎯 Current Goal
+Currently, I'm focused on developing hands-on projects in threat detection, security monitoring, and intrusion detection to prepare for a career as a SOC Analyst.
 
-Building practical Blue Team projects and strengthening my skills in security monitoring, incident response, and threat analysis.
+---
 
-## 🛠 Tech Stack
+## 🎯 Current Focus
 
-**Programming**
+- 🔐 Threat Detection & Security Monitoring
+- 📊 SIEM & Log Analysis
+- 🐧 Linux Administration
+- 🌐 Web Application Security
+- 🛡️ Blue Team Operations
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
 - Python
 - Java
 - SQL
+- Bash
+- PowerShell
 
-**Cybersecurity**
-- Linux
+### Cybersecurity
 - Kali Linux
-- SIEM
+- Linux
+- SIEM Concepts
 - Log Analysis
-- Threat Detection
+- Intrusion Detection
+- Threat Intelligence
+- Network Security
+- TCP/IP
 
-**Tools**
+### Tools
 - Wireshark
 - Nmap
+- Elasticsearch
+- Logstash
+- Kibana
 - Flask
 - PostgreSQL
+- SQLite
 - Power BI
+- Git
+
+---
 
 ## 📌 Featured Projects
 
-- Threat Intelligence Dashboard
-- SSH Honeypot
-- Log-Based IDS
+🔐 Threat Intelligence Dashboard with SSH Honeypot
+
+🚨 Log-Based Intrusion Detection System (IDS)
+
+📊 ELK Stack SIEM for Security Monitoring
+
+📈 Financial Analysis Dashboard
+
+---
 
 ## 📜 Certifications
 
@@ -52,8 +76,28 @@ Building practical Blue Team projects and strengthening my skills in security mo
 - TryHackMe SOC Level 1
 - Cybersecurity Fundamentals
 
-## 📫 Connect with Me
+---
 
-📧 sahumeghaa@gmail.com
+## 🌱 Currently Learning
 
-💼 LinkedIn
+- Web Application Security
+- OWASP Top 10
+- Burp Suite
+- Incident Response
+- Security Engineering
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** sahumeghaa@gmail.com
+
+💼 **LinkedIn:**  
+https://linkedin.com/in/megha-s-258347243
+
+🐙 **GitHub:**  
+https://github.com/meghaab3
+
+---
+
+⭐ *"Always learning, always building, always improving."*
