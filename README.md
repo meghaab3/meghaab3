@@ -47,9 +47,6 @@ Currently, I'm focused on developing hands-on projects in threat detection, secu
 ### Tools
 - Wireshark
 - Nmap
-- Elasticsearch
-- Logstash
-- Kibana
 - Flask
 - PostgreSQL
 - SQLite
@@ -64,7 +61,7 @@ Currently, I'm focused on developing hands-on projects in threat detection, secu
 
 🚨 Log-Based Intrusion Detection System (IDS)
 
-📊 ELK Stack SIEM for Security Monitoring(IN PROGRESS)
+📊 ELK Stack SIEM for Security Monitoring [IN PROGRESS]
 
 📈 Financial Analysis Dashboard
 
@@ -79,7 +76,9 @@ Currently, I'm focused on developing hands-on projects in threat detection, secu
 ## 🌱 Currently Learning
 
 - Web Application Security
-- OWASP Top 10
+- Elasticsearch
+- Logstash
+- Kibana
 - Burp Suite
 - Incident Response
 - Security Engineering
