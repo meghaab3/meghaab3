@@ -64,7 +64,7 @@ Currently, I'm focused on developing hands-on projects in threat detection, secu
 
 🚨 Log-Based Intrusion Detection System (IDS)
 
-📊 ELK Stack SIEM for Security Monitoring
+📊 ELK Stack SIEM for Security Monitoring(IN PROGRESS)
 
 📈 Financial Analysis Dashboard
 
@@ -73,8 +73,6 @@ Currently, I'm focused on developing hands-on projects in threat detection, secu
 ## 📜 Certifications
 
 - Cisco Introduction to Cybersecurity
-- TryHackMe SOC Level 1
-- Cybersecurity Fundamentals
 
 ---
 
